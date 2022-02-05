@@ -1,0 +1,89 @@
+.head img {
+    
+    vertical-align: middle;
+   padding: 5px;
+   padding-top: 100px;
+  display: table;
+  position: relative;
+  overflow: hidden;
+  text-align:center;
+  margin:0 auto;
+} 
+.middle .text1 { 
+    text-align: center;
+    padding: 5px;
+    
+}
+.middle {
+    background-color:rgb(237, 236, 234) ;
+width: 600px;
+height: 100px;
+
+margin-left: 650px;
+}
+/*Arama Çubuğu ve Butonlar */
+.arama  { 
+    text-align: center;
+    margin: auto;
+    position: relative;
+    margin-top: -8px;
+  
+   
+}
+.button { 
+
+    text-align: center;
+    margin: 0px auto;
+    position: relative;
+    margin-top: 8px;
+    cursor: pointer;
+   
+   
+}
+.s-input {
+border: 1px solid rgb(12, 12, 12) ;
+}
+/* 
+Container 1-2-3 için css kodları
+
+ */
+
+.container1 {
+    background-color: #7ee5da ;
+    width: 230px;
+    text-align: center;
+    margin-left: 650px;
+    margin-top: -12px;
+    
+    }
+
+    .container2 {
+        background-color: #70ccc2 ;
+        width: 140px;
+        height: 86px;
+        text-align: center;
+        margin-left: 884px;
+        margin-top: -102px;
+        line-height: 0.0001px;
+        }
+        .container3 {
+            background-color: #62b3aa ;
+            width: 223px;
+            height: 86px;
+            text-align: center;
+            margin-left: 1028px;
+            margin-top: -102px;
+        line-height: 0.001px;
+        
+        
+            }
+
+.text4 {
+    margin-top: -10px;
+
+}
+/*Footer */
+.copy { 
+    text-align: center;
+    margin-top: 12px;
+}
